@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616215554713",
+    "project_id": "analyticspoc-b4b54",
+    "storage_bucket": "analyticspoc-b4b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616215554713:android:6d914bddc2dfa3c9c2a608",
+        "android_client_info": {
+          "package_name": "com.malviya.googleanalyticssupportpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616215554713-r47joi1qfbg0ng5mfbq20pbtu85u8c39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjn8RXpKedEFvMdOFZVH6Oh_CcZcM0YNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616215554713-r47joi1qfbg0ng5mfbq20pbtu85u8c39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
